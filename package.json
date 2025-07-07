@@ -1,0 +1,5 @@
+{
+  "name": "My-CORS-Proxy",
+  "version": "1.0.0",
+  "description": "Een simpele CORS proxy voor Vercel"
+}
